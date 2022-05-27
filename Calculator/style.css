@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+
+h1 {
+    color: gray;
+    font-family: Verdana;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    /* align: center; */
+}
+
+.wrapper {
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+#label {
+    line-height: 200%;
+}
+
+#label:first-child {
+    margin-right: 39px;
+}
+
+#label:nth-child(8) {
+    margin-right: 8px;
+}
+
+
+button {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+#result:nth-child(20) {
+    background-color: yellow;
+}
